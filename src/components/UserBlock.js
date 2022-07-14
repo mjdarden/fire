@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import {userRef} from '../App'
+import {userRef} from './App'
 import EditUser from './EditUser'
 
 function UserBlock({user}) {

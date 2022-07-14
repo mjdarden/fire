@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import {userRef} from '../App'
+import {userRef} from './App'
 
 function EditUser({user, setShowEditBox}) {
 
